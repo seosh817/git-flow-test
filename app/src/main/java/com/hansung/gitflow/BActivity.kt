@@ -9,6 +9,7 @@ class BActivity :AppCompatActivity() {
         super.onCreate(savedInstanceState)
         Log.d(B, "B first commit")
         Log.d(B, "B second commit")
+        Log.d(B, "B third commit")
 
     }
 
