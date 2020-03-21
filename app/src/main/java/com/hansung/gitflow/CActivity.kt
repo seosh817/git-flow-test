@@ -9,6 +9,8 @@ class CActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Log.d(C, "C First Commit")
+        Log.d(C, "C Second Commit")
+
     }
 
     companion object{
