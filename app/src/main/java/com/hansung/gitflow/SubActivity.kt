@@ -10,6 +10,7 @@ class SubActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         Log.d(Sub, "Sub First Commit")
         Log.d(Sub, "Sub Second Commit")
+        Log.d(Sub, "Sub Third Commit")
     }
 
     companion object{
