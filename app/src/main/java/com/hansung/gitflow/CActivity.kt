@@ -10,6 +10,7 @@ class CActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         Log.d(C, "C First Commit")
         Log.d(C, "C Second Commit")
+        Log.d(C, "C Third Commit")
 
     }
 
