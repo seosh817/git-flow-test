@@ -22,3 +22,6 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 ### 3. release-1.0.0 branch에서 master branch로 머지 후 커밋 그래프
 ![master1 0 0](https://user-images.githubusercontent.com/43161981/77248428-9cc32280-6c7c-11ea-9667-bed24166b370.png)
+
+### 4. release-1.0.1 branch 추가, hotfix-1.1.1 추가 후 커밋 그래프
+![hotfix](https://user-images.githubusercontent.com/43161981/77248818-df3a2e80-6c7f-11ea-9793-7c039fbb0005.png)
