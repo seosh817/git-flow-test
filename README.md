@@ -10,7 +10,6 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 ### git flow를 설명하는 대표적인 그림
 ![git-flow](https://user-images.githubusercontent.com/43161981/77248162-aba8d580-6c7a-11ea-8924-f354c4a39880.png)  
-#### 위 그림을 따라서 실습  
 
 ### 1. issue 생성
 ![issues](https://user-images.githubusercontent.com/43161981/77248325-e95a2e00-6c7b-11ea-91e9-414b7af900a0.png)
